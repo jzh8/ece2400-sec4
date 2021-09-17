@@ -1,0 +1,4 @@
+
+test_case_1_basic
+ - [ [31mFAILED[0m ] File avg-test.c:17:  avg( 10, 20 ) != 15 (10 != 15)
+
