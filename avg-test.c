@@ -6,7 +6,7 @@
 int avg(int x, int y) {
   // printf("x = %d, y = %d\n", x,y);
   int sum = x + y;
-  // printf("sum = %d\n",sum);
+  // printf("sum = %d\n",sum);f
   return sum / 2;
 }
 
